@@ -107,9 +107,11 @@ Das Projekt-Repository `oxsc6541/AI-Vibe-Coding-Aufgabe-C` ist in der Liste sich
 Über die CLI wurde folgende Aufgabe an Jules übergeben:
 
 ```powershell
-jules new --repo oxsc6541/AI-Vibe-Coding-Aufgabe-C "[HIER: tatsächlich verwendeter Jules-Prompt einfügen]"
+jules new --repo oxsc6541/AI-Vibe-Coding-Aufgabe-C "Erstelle im Ordner modul3-python eine requirements.txt mit den Abhängigkeiten requests und python-dotenv, sowie eine .env.example Datei mit dem Platzhalter LLM_API_KEY=. Keine weitere Logik, nur diese zwei Konfigurationsdateien."
 ```
 
-Jules liefert das Ergebnis als Pull Request: [HIER: PR-Link einfügen].
+Jules erstellte die Sitzung (ID `11368471629073975331`), bearbeitete die Aufgabe autonom in einer Remote-VM und stellte das Ergebnis zur Überprüfung bereit ("Ready for review"). Nach manueller Freigabe (`Publish PR`) wurde der Pull Request veröffentlicht:
+
+**Pull Request:** https://github.com/oxsc6541/AI-Vibe-Coding-Aufgabe-C/pull/1
 
 Damit ist neben dem IDE-basierten Werkzeug (Cursor) auch der Einsatz eines eigenständigen, CLI-gesteuerten KI-Agenten dokumentiert.
