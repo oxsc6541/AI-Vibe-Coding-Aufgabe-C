@@ -52,4 +52,3 @@ Als Nachweis für die geforderte Gegenprobe wurde zusätzlich Google Jules einge
 3. `03-modul1-java.md` – Java-Code für PDFBox-Textextraktion und WebSocket-Übertragung.
 4. `04-modul2-nodejs.md` – Node.js-Code für Datei-Speicherung und Express-Route.
 5. `05-modul3-python.md` – Python-Code für API-Abfrage, LLM-Extraktion und regelbasierte Auswertung.
-6. `06-code-verstehen.md` – Erklärung der wichtigsten Codezeilen.
